@@ -9,17 +9,17 @@
   dependencies:
     tslib "^1.9.0"
 
-"@alfresco/adf-core@3.6.0-9f69a7d4ee5de67f97afe8ac20b39a78597c2ac7":
-  version "3.6.0-9f69a7d4ee5de67f97afe8ac20b39a78597c2ac7"
-  resolved "https://registry.yarnpkg.com/@alfresco/adf-core/-/adf-core-3.6.0-9f69a7d4ee5de67f97afe8ac20b39a78597c2ac7.tgz#35eef7ac13de42c6411b611f79e522c589ba16ae"
-  integrity sha512-sTMY1M761QF4WqkYdLs9BeAvzLkiNWZVVXQYYNw2Bv08PQ+M5GQ2oG2LBdL2UWwlTrQY4kX+YjLexaqEJYdHsw==
+"@alfresco/adf-core@3.6.0-f731988ca6c6e691f24647dd3a26ce01bfeffc23":
+  version "3.6.0-f731988ca6c6e691f24647dd3a26ce01bfeffc23"
+  resolved "https://registry.yarnpkg.com/@alfresco/adf-core/-/adf-core-3.6.0-f731988ca6c6e691f24647dd3a26ce01bfeffc23.tgz#a297a0b33462ace7fd9181ea141514b0d09a1274"
+  integrity sha512-ovT/DTtUjsXRBt+FDDJ4K4j7rh7w0Ln1lQySKDdt+S072FE0+LyGUlVGRazalbyXviuTJ/Z7mJSXwJSiSyxsQA==
   dependencies:
     tslib "^1.9.0"
 
-"@alfresco/adf-extensions@3.6.0-9f69a7d4ee5de67f97afe8ac20b39a78597c2ac7":
-  version "3.6.0-9f69a7d4ee5de67f97afe8ac20b39a78597c2ac7"
-  resolved "https://registry.yarnpkg.com/@alfresco/adf-extensions/-/adf-extensions-3.6.0-9f69a7d4ee5de67f97afe8ac20b39a78597c2ac7.tgz#2a35a55371be65bda6f5cf5ec0730a91cf93d2f7"
-  integrity sha512-xuHtjq/WwpLkZFFp+5DWBA11J6slByZdqCnYpY1hORj/IdwZr/r5L7giO1V3I9P6EOgNaZcjgetj8VvlC+l6Qg==
+"@alfresco/adf-extensions@3.6.0-f731988ca6c6e691f24647dd3a26ce01bfeffc23":
+  version "3.6.0-f731988ca6c6e691f24647dd3a26ce01bfeffc23"
+  resolved "https://registry.yarnpkg.com/@alfresco/adf-extensions/-/adf-extensions-3.6.0-f731988ca6c6e691f24647dd3a26ce01bfeffc23.tgz#e4f898975dee3aef1d2341953778b055e82aa6b0"
+  integrity sha512-SMhfE0q5ibwvTlOFU/T6piqER5YTofXI2xPVhtJ7xezgACFpdDJbqkjMD1dx4tddFObeoXJY674K1T/LBuF2sA==
   dependencies:
     tslib "^1.9.0"
 

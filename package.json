@@ -13,8 +13,8 @@
   "private": true,
   "dependencies": {
     "@agm/core": "1.0.0",
-    "@alfresco/adf-core": "3.6.0-9f69a7d4ee5de67f97afe8ac20b39a78597c2ac7",
-    "@alfresco/adf-extensions": "3.6.0-9f69a7d4ee5de67f97afe8ac20b39a78597c2ac7",
+    "@alfresco/adf-core": "3.6.0-f731988ca6c6e691f24647dd3a26ce01bfeffc23",
+    "@alfresco/adf-extensions": "3.6.0-f731988ca6c6e691f24647dd3a26ce01bfeffc23",
     "@alfresco/js-api": "3.5.0",
     "@angular-redux/store": "10.0.0",
     "@angular/animations": "github:angular/animations-builds#f9e18882896dfc7bfdfe988c9705e87b2049c13b",
